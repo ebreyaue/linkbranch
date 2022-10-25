@@ -38,7 +38,7 @@ Responsive design, background gradient with css variables and type writing efect
 
 <code>git clone https://github.com/ebreyaue/linkbranch</code></br>
 <code>cd /linkbranch </code></br>
-<code>npm -i express </code></br>
+<code>npm install express </code></br>
 <code>node index.js </code></br>
 <hr>
 <div align="center">
