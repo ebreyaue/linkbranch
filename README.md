@@ -21,4 +21,7 @@ Responsive design, background gradient with css variables and type writing efect
 <h3>Get Repository</h3>
 <code>
 git clone https://github.com/ebreyaue/linkbranch
+cd /linkbranch
+npm -i express
+node index.js
 <code>
